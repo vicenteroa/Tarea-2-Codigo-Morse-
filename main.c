@@ -6,10 +6,8 @@
 #include <stdbool.h>
 
 /*
-  NOMBRES : VICENTE ROA & BENJAMIN QUEZADA  |
+  NOMBRES : VICENTE ROA |
   FECHA   :   26/11/2022                    |
-  RUT     :  21.287.775-1 & 21.158.853-5    |
-  Profesor:  Irene Zuccar                   |
 
 */
 /*--------------------------------------------------------------------*/
